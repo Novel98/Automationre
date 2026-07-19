@@ -39,7 +39,7 @@ public class BeforClassAfterClass {
 
     @AfterClass
     public void afterClassExample() {
-        System.out.println("AfterClass → Runs once after all tests");
+        
     }
 }
 
