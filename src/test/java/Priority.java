@@ -10,6 +10,8 @@ public class Priority {
     @Test
     public void testCaseM() {
         System.out.println("test case M");
+        System.out.println("hii");
+
     }
 
     @Test
